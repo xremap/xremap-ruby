@@ -13,7 +13,7 @@ This will install `xremap-ruby` command.
 ## Usage
 
 ```bash
-$ xremap-ruby config.rb > config.yml
+$ xremap-ruby example/config.rb > config.yml
 $ sudo xremap config.yml
 ```
 

@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'Generate xremap config from Ruby'
   spec.homepage      = 'https://github.com/xremap/xremap-ruby'
   spec.license       = 'MIT'
-  spec.required_ruby_version = '>= 2.4.0'
+  spec.required_ruby_version = '>= 2.5.0'
 
   spec.metadata['homepage_uri'] = spec.homepage
 
